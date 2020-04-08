@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f7f0881-5673-4832-9510-8c86ff277af3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dictionaries">
+  <component name="RunManager" selected="Python.Maps_Filter">
     <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if-else" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Maps_Filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if-else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maps_Filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Maps_Filter" />
         <item itemvalue="Python.Dictionaries" />
         <item itemvalue="Python.variable_scope" />
         <item itemvalue="Python.For_python" />
         <item itemvalue="Python.For_Loop_python" />
-        <item itemvalue="Python.if-else" />
       </list>
     </recent_temporary>
   </component>
