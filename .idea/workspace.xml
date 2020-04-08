@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lambda">
+  <component name="RunManager" selected="Python.List_Comprehension">
     <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="For_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="List_Comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Comprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.List_Comprehension" />
         <item itemvalue="Python.lambda" />
         <item itemvalue="Python.Maps_Filter" />
         <item itemvalue="Python.Dictionaries" />
         <item itemvalue="Python.variable_scope" />
-        <item itemvalue="Python.For_python" />
       </list>
     </recent_temporary>
   </component>
