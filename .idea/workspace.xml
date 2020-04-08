@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.For_Loop_python">
+  <component name="RunManager" selected="Python.For_python">
     <configuration name="Basics_of_Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Multiplication_Table_horizontally" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="For_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiplication_Table_horizontally.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.For_python" />
         <item itemvalue="Python.For_Loop_python" />
         <item itemvalue="Python.if-else" />
         <item itemvalue="Python.Python_Lists" />
         <item itemvalue="Python.Basics_of_Python" />
-        <item itemvalue="Python.Multiplication_Table_horizontally" />
       </list>
     </recent_temporary>
   </component>
