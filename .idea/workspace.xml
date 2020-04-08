@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f7f0881-5673-4832-9510-8c86ff277af3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inheritance_basics/CodingNewBie_talents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance_basics/Google_talents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Object/detail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Object/student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance_basics/Google_talents.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance_basics/Google_talents.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.List_Comprehension">
+  <component name="RunManager" selected="Python.detail">
     <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +105,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="detail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class_Object/detail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,34 +147,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variable_scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variable_scope.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.detail" />
         <item itemvalue="Python.List_Comprehension" />
         <item itemvalue="Python.lambda" />
         <item itemvalue="Python.Maps_Filter" />
         <item itemvalue="Python.Dictionaries" />
-        <item itemvalue="Python.variable_scope" />
       </list>
     </recent_temporary>
   </component>

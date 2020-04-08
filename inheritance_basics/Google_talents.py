@@ -1,6 +1,6 @@
 from CodingNewBie_talents import Coding
 
 
-class Google():
+class Google(Coding):
     def everything(self):
         print('I can Do everything')
